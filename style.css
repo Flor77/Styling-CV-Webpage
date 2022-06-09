@@ -1,0 +1,42 @@
+body{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.color{
+  color: #005889;
+}
+
+.indent{
+  margin-left: 50px;
+}
+
+.style-list{
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  gap: 5px;
+  
+}
+
+.style-position{
+  list-style-type: none;
+  color: #005889;
+}
+
+.table-form{
+  width: 50%;
+  text-align: left;
+  margin-left: 55px;
+}
+
+.none{
+  list-style-type: none;
+}
+
+#container{
+  border-top: 10px solid;
+  color: #005889;
+  padding: 20px 36px;
+  font-family:Arial, Helvetica, sans-serif;
+  }
